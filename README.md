@@ -9,5 +9,5 @@ private static final String SECRET_KEY = "";
 ```
 
 3. JDK_1.8.0_211，项目管理工具：Maven-3.6.3。
-4. Maven编译打包jar文件后，可以使用exe4j9工具将jar包转成windows下的.exe文件。
+4. Maven编译打包jar文件后，可以使用exe4j9工具将jar包转成windows可执行文件。
 
