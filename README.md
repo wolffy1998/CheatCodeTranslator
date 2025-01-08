@@ -1,2 +1,6 @@
-# CheatCodeTranslator
-RetroArch 金手指汉化工具
+### RetroArch 金手指汉化工具
+
+1. 需要在百度翻译开发平台获取文文本翻译 API
+
+
+
