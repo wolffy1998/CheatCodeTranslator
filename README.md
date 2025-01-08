@@ -1,6 +1,6 @@
 ### RetroArch 金手指汉化工具
 
-1. 需要在百度翻译开放平台申请文字翻译接口，并且获取API_KEY,SECRET_KEY两个参数。
+1. 需要在百度翻译开放平台申请文字翻译接口，并且获取API_KEY和SECRET_KEY两个参数。
 2. 在src/main/java/com/example/fanyi/CheatCodeTranslatorGUI.java文件中填入申请的参数。
 
 ```java
